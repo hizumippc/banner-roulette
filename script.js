@@ -150,7 +150,8 @@ function shareTwitter(){
 📝 詳細：${current.purpose} / ${current.tone} / ${current.appeal}
 📐 サイズ：${current.size}
 
-👇お題はこちら`;
+👇お題はこちら
+${url}`;
 
-  window.open(`https://x.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`);
+  window.open(`https://x.com/intent/tweet?text=${encodeURIComponent(text)}`);
 }
