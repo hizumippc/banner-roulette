@@ -40,7 +40,7 @@
 
 ## 🔗 公開URL
 
-（ここにGitHub PagesのURLを記載）
+https://hizumippc.github.io/banner-roulette/
 
 ---
 
