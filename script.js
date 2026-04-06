@@ -141,12 +141,16 @@ function saveHistory(){
 function shareTwitter(){
   const url = "https://hizumippc.github.io/banner-roulette/";
 
-  const text=`今日のバナーお題☑ #バナー制作練習
+  const text=`今日のバナーお題☑  
+#ルーレットでバナー練習
 
+今日のお題👇
 🎯 ジャンル：${current.service}
 👤 ターゲット：${current.target}
 📝 詳細：${current.purpose} / ${current.tone} / ${current.appeal}
-📐 サイズ：${current.size}`;
+📐 サイズ：${current.size}
+
+👇お題はこちら`;
 
   window.open(`https://x.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`);
 }
