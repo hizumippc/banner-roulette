@@ -139,7 +139,7 @@ function saveHistory(){
 }
 
 function shareTwitter(){
-  const url = "（URL）";
+  const url = "https://hizumippc.github.io/banner-roulette/";
 
   const text=`今日のバナーお題☑ #バナー制作練習
 
