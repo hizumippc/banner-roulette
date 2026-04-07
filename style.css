@@ -1,7 +1,6 @@
 /* ===== Base ===== */
   body {
     font-family: sans-serif;
-    padding: 20px;
   }
 
   h1 {
@@ -19,6 +18,11 @@
 
   .left { width:500px; }
   .right { width:320px; padding-top:50px; }
+
+  .page {
+    flex: 1;
+    padding: 20px;
+  }
 
   .button-row {
     display:flex;
