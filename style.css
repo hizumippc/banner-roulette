@@ -35,9 +35,9 @@
 /* ===== Component ===== */
   button {
     padding:12px 30px;
-    background:#40e0d0;
+    background:#44a098;
     color:#fff;
-    border:2px solid #40e0d0;
+    border:2px solid #44a098;
     border-radius:50px;
     cursor:pointer;
     transition:.2s;
@@ -45,7 +45,7 @@
 
   button:hover {
     background:#fff;
-    color:#40e0d0;
+    color:#44a098;
   }
 
   button:active {
@@ -58,7 +58,7 @@
 
   .slot-box {
     padding:16px;
-    border:2px solid #40e0d0;
+    border:2px solid #44a098;
     border-radius:10px;
     background:#f9ffff;
   }
@@ -75,7 +75,7 @@
 
   .slot {
     font-weight:bold;
-    color:#008b8b;
+    color:#44a098;
     height:32px;
     padding-top:4px;
     overflow:hidden;
@@ -107,7 +107,7 @@
     width:34px;
     height:34px;
     border-radius:50%;
-    background:#40e0d0;
+    background:#44a098;
     margin-right:12px;
   }
 
@@ -130,7 +130,7 @@
   }
 
   footer {
-    background: #40e0d0;
+    background: #44a098;
     color: #fff;
     text-align: center;
     padding: 16px 0;
